@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"REQ",
+				"$_REQUEST"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"_R",
+				"$_REQUEST"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"page",
+				"password_get_info()"
+			],
+			[
+				"ol",
+				"col"
+			],
+			[
+				"o",
+				"ol"
+			],
+			[
+				"a",
+				"ano"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/projeto de progweb/pages/atendente-salvar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/atendente-editar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/atendente-listar.php",
+		"/C/xampp/htdocs/projeto de progweb/index.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/biblioteca-salvar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/atendente-cadastrar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/biblioteca-cadastrar.php",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa4232.28266/atendente-listar.php",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa4232.1173/atendente-salvar.php",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa4232.24598/atendente-listar.php",
+		"/C/xampp/htdocs/projeto de progweb/config.php",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa4232.27950/atendente-cadastrar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/biblioteca-editar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/biblioteca-listar.php",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa4232.23486/biblioteca-editar.php",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa4232.4357/biblioteca-salvar.php",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa2208.46707/biblioteca-salvar.php",
+		"/C/xampp/htdocs/projeto de progweb/doc/banco_de_dados.sql",
+		"/C/xampp/htdocs/projeto de progweb/pages/main.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/livro-salvar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/livro-listar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/livro-editar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/reserva-salvar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/reserva-listar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/reserva-editar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/reserva-cadastrar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/livro-cadastrar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/categoria-listar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/categoria-editar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/categoria-cadastrar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/categoria-salvar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/categoria-salvar",
+		"/C/xampp/htdocs/projeto de progweb/pages/aluno-salvar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/aluno-listar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/aluno-editar.php",
+		"/C/xampp/htdocs/projeto de progweb/pages/atendente-lsitar.php",
+		"/C/xampp/htdocs/projeto de progweb/banco_de_dados.sql",
+		"/C/xampp/htdocs/avaliação 1/avaliacaoex4.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/avaliação 1/avaliacaoex1.php",
+		"/C/xampp/htdocs/avaliacaoex1.php",
+		"/C/xampp/htdocs/avaliação 1/avaliacaoex6.php",
+		"/C/xampp/htdocs/avaliaçãoex7.php",
+		"/C/xampp/htdocs/avaliação 1/avaliaçãoex4.php",
+		"/C/xampp/htdocs/avaliação 1/Avaliacaoex7.php",
+		"/C/xampp/htdocs/avaliação 1.php",
+		"/C/xampp/htdocs/avaliação 1/avaliaçãoex1.php"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "categoria-cadastrar.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
